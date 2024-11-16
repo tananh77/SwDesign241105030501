@@ -47,5 +47,5 @@
 
   ### 4. Biểu đồ ngữ cảnh của Payroll System với tất cả các hệ thống con
 
- - ![This is a class diagram](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bTHQd99ObvwJgg2Ka1YPL5-Jev2S6LnIMgkaa8rbm8GH0SKvMS15VacvYMcf-QcvfMu99Oa9YKMfyPorN9nuP5MqDMr0veAaLT0A81ROANWyt3Nqag5b8UxrolaP3xStLuAOczKEBmmZyiXDIy5v40k00000F__0m00)
+ - ![This is a class diagram](https://www.planttext.com/api/plantuml/png/T50nJiD04Epl5IFt-K0A5A4WX0GeKaf4iJWh-yXvZSvh4YkYfk0J18aQQECYXQNymo_W2_XY4Q1WgzNCpkpiVjRRKQ7ajSoSyHmhIU8OqOGgdpk7QLKePn5M1brT7PFCU-Yw1oRUYaxPtzkO3r1-snbTa5326OkEIUc6Yev_CEQt1GQ38qGdIsKlv10ONB8kSZ-FCCIffHopjdwAKqZIl0ZIvbaIytTfRxA7s0VPcU0kjUrcMyBjtdVhNl5Vfc_vdiVFmE7o8SxRpMiLWhp1sRP-B4F_WMOjPiGo2v_x0W00__y30000)
 
