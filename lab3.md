@@ -38,4 +38,14 @@
    
  - PrintStatus API: Cung cấp trạng thái tiến trình in, giúp Payroll System theo dõi quá trình in của từng yêu cầu.
 
+   ### Hệ Thống Con 3: ProjectManagementDatabase
+ - ProjectManagementDatabase lưu trữ và quản lý thông tin về các dự án, giúp Payroll System tính toán lương cho những nhân viên làm việc theo dự án.
+
+ - Biểu đồ ngữ cảnh của ProjectManagementDatabase
+
+ - ![This is a class diagram](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bTHQd99ObvwJgg2Ka1YPL5-Jev2S6LnIMgkaa8rbm8GH0SKvMS15VacvYMcf-QcvfMu99Oa9YKMfyPorN9nuP5MqDMr0veAaLT0A81ROANWyt3Nqag5b8UxrolaP3xStLuAOczKEBmmZyiXDIy5v40k00000F__0m00)
+
+  ### 4. Biểu đồ ngữ cảnh của Payroll System với tất cả các hệ thống con
+
+ - ![This is a class diagram](https://www.planttext.com/api/plantuml/png/UhzxlqDnIM9HIMbk3bTHQd99ObvwJgg2Ka1YPL5-Jev2S6LnIMgkaa8rbm8GH0SKvMS15VacvYMcf-QcvfMu99Oa9YKMfyPorN9nuP5MqDMr0veAaLT0A81ROANWyt3Nqag5b8UxrolaP3xStLuAOczKEBmmZyiXDIy5v40k00000F__0m00)
 
